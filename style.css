@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+#resultOutput {
+  background: #f8f9fa;
+  font-family: monospace;
+}
